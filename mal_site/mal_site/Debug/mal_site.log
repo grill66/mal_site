@@ -1,0 +1,3 @@
+﻿  mal_site.c
+c:\users\grill66\documents\visual studio 2015\projects\mal_site\mal_site\mal_site.c(6): warning C4101: 'windivert_address' :참조되지 않은 지역 변수입니다.
+  mal_site.vcxproj -> C:\Users\grill66\Documents\Visual Studio 2015\Projects\mal_site\Debug\mal_site.exe

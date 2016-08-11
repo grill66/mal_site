@@ -1,0 +1,7 @@
+﻿  mal_site.c
+c:\users\grill66\documents\visual studio 2015\projects\mal_site\mal_site\mal_site.c(93): warning C4133: '=': 'unsigned char *'과(와) 'WINDIVERT_IPHDR *' 사이의 형식이 호환되지 않습니다.
+c:\users\grill66\documents\visual studio 2015\projects\mal_site\mal_site\mal_site.c(94): warning C4133: '=': 'char *'과(와) 'WINDIVERT_TCPHDR *' 사이의 형식이 호환되지 않습니다.
+c:\users\grill66\documents\visual studio 2015\projects\mal_site\mal_site\mal_site.c(105): warning C4311: '형식 캐스팅': 'unsigned char *'에서 'int'(으)로 포인터가 잘립니다.
+c:\users\grill66\documents\visual studio 2015\projects\mal_site\mal_site\mal_site.c(77): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+  mal_site.vcxproj -> C:\Users\grill66\Documents\Visual Studio 2015\Projects\mal_site\x64\Debug\mal_site.exe

@@ -1,0 +1,8 @@
+﻿  mal_site.c
+mal_site.c(6): warning C4101: 'windivert_address' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  mal_site.vcxproj -> C:\Users\grill66\Documents\Visual Studio 2015\Projects\mal_site\Release\mal_site.exe
